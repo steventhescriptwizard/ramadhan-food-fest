@@ -1,0 +1,7 @@
+{
+  "name": "RamadhanFest - Template",
+  "description": "A premium culinary marketplace app for the Ramadhan Food Festival, featuring a curated directory of food stalls, heritage recipes, and interactive menu ordering.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
